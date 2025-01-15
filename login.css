@@ -20,7 +20,7 @@ body {
     top: 18%;
     width: 420px;
     background-color: transparent;
-    backdrop-filter: blur(16px);
+    backdrop-filter: blur(6px);
     box-shadow: 0 0 10px rgba(0,0,0, .2);
     color: #fff;
     border-radius: 10px;
